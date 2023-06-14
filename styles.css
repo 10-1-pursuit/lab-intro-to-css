@@ -21,3 +21,18 @@ li {
   padding-left: 30px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+body {
+  font-family: sans-serif;
+}
+h3 {
+  text-decoration-line: underline;
+  color: blue;
+  padding: 10px;
+}
+p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h1 {
+  font-size: 30px;
+}

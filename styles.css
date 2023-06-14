@@ -1,0 +1,50 @@
+h1{
+    color: rgb(70, 4, 4);
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+li{
+    border-style: groove;
+    text-align: center;
+    border-color: rgb(87, 12, 12);
+    border-radius:15px;
+   color: blue;
+   background-color: rgb(237, 155, 22);
+   padding-left: 30px;
+   border-width: 12px;
+   bor
+}
+ul{
+    list-style-type: none;
+}
+ol{
+    font-weight: bold;
+    list-style-position: inside;
+}
+img{
+    height: 200px;
+   display: block;
+   margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    border-style: dashed;
+    border-color: rgb(142, 71, 71);
+}
+body{
+    font-family: sans-serif;
+    background-color: chocolate;
+}
+h3{
+    text-decoration: underline;
+    color: rgb(35, 98, 215);
+    
+}
+p{
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    color: aliceblue;
+}
+h2{
+    color: rgb(10, 92, 246);
+}

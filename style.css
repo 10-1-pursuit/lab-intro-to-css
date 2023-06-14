@@ -1,0 +1,57 @@
+
+/* change the font of the header name to Fantasy and purple, changed background-color */
+h1 { 
+    font-family:fantasy , sans-serif;
+    color: purple;
+    background-color: aquamarine;
+}
+/* remove the bullet points from unordered list of links */
+u1 {
+    list-style-type: none;
+}
+/* change the font-weight in ordered list to bold */
+ol {
+    font-weight: bold;
+}
+/* center all li elements on the page, give li elements a 1px red border with curved corners, added background color */
+li {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color:blueviolet
+}
+/* all images should be 200 pixels tall */
+img {
+    height: 200px;
+}
+/* change all font in the body to sans-serif, added background color to the body */
+body {
+    font-family: sans-serif;
+    background-color:cadetblue
+}
+/* underline all h3 elements */
+h3 {
+    text-decoration: underline;
+}
+/* all p tags should have 20 pixels of padding on top and bottom, changed background-color */
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: darksalmon;
+}
+/* h1 tags should have a 30px font size */
+h1 {
+    font-size: 30px;
+}
+/* lists should have 30px of padding on the left */
+ul,
+ol {
+    padding-left: 30px;
+}
+/* Style h2 element */
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color:aqua;
+    margin-bottom: 10px;
+}

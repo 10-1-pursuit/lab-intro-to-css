@@ -1,0 +1,38 @@
+h1{
+    color: purple;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+li{
+    border-style: groove;
+    text-align: center;
+    border-color: red;
+    border-radius:15px;
+   color: blue;
+   background-color: lightpink;
+   padding-left: 30px;
+}
+ul{
+    list-style-type: none;
+}
+ol{
+    font-weight: bold;
+    list-style-position: inside;
+}
+img{
+    height: 200px;
+   display: block;
+   margin-left: auto;
+    margin-right: auto;
+}
+body{
+    font-family: sans-serif;
+}
+h3{
+    text-decoration: underline;
+}
+p{
+    padding-top: 20px; 
+    padding-bottom: 20px;
+}

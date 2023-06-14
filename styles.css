@@ -1,0 +1,57 @@
+h1 {
+  font-family: fantasy;
+  color: purple;
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ol {
+  font-weight: 700px;
+  font-size: 17px;
+}
+li {
+  text-align: center;
+  border: 1px solid rgb(128, 0, 128);
+  border-radius: 10px;
+  color: rgb(102, 51, 153);
+  background-color: rgb(216, 191, 216);
+  padding-left: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  font-family: sans-serif;
+}
+h3 {
+  text-decoration-line: underline;
+  padding: 10px;
+}
+p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h1 {
+  font-size: 30px;
+  font-family: URW Chancery L, cursive;
+}
+body {
+  margin: 60px;
+}
+p.bug {
+  margin: 25px;
+}
+a {
+  color: darkmagenta;
+}
+img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0 auto;
+  viewport-fit: 100;
+}
+h1 {
+  font-size: 45px;
+}

@@ -1,0 +1,44 @@
+
+#title{
+    font-weight: bold;
+}
+    
+li{
+    text-align:center
+}
+
+li {
+    border:1px solid red;
+    border-radius: 5px;
+}
+
+li {
+    color: blue 
+   
+}
+
+img {
+    height: 200px;
+}
+
+body{
+    font-family:sans-serif;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+ul,ol {
+    padding-left: 30px;
+}
+

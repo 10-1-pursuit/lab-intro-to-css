@@ -1,0 +1,45 @@
+h1 {
+    font-family: fantasy;
+    color: purple;
+    font-size: 30px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 30px;
+}
+
+ol {
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+li {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 10px;
+    color: blue;
+    background-color: lightpink;
+    list-style-position: inside;
+    /* ⬆️ how to center numbered list https://stackoverflow.com/questions/19364836/how-to-center-ordered-list-number-in-html */
+}
+
+img {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

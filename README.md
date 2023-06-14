@@ -21,7 +21,7 @@ x- Change the font of the name header to be `'Fantasy'` and purple.
 -x Remove the bullet points from your unordered list of links.
 -x Change the `font-weight` in your ordered list to bold.
 -x Center all `li` elements on the page.
-- ?Give your `li` elements a 1px red border with curved corners.
+-x ?Give your `li` elements a 1px red border with curved corners.
 -x Change the font color of your `li` elements to blue and the background color to a light pink.
 - ?All images should be 200 pixels tall.
 x- Change all font in the body to sans-serif.

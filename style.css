@@ -1,3 +1,8 @@
+body{
+    background-color: darkred;
+}
+
+
 ul {
     list-style-type: none;
     padding-left: 30px;
@@ -9,8 +14,8 @@ ol {
 }
 
 li {
-    align-content: center;
-    border: 1 px solid red;
+    text-align: center;
+    border: 1px solid red;
     border-radius: 5px;
 
     color: blue;
@@ -34,6 +39,8 @@ h3{
 img{
     height: 200px;
     width: auto;
+    border-radius: 50%;
+    align-content: center;
 }
 
 p{
@@ -42,3 +49,11 @@ p{
     padding-left: 0%;
     padding-right: 0%;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+  

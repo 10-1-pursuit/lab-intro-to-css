@@ -1,5 +1,5 @@
 h1{
-    color: cornflowerblue;
+    color: rgb(70, 4, 4);
     font-family: fantasy;
     font-size: 30px;
 }
@@ -7,10 +7,10 @@ h1{
 li{
     border-style: groove;
     text-align: center;
-    border-color: red;
+    border-color: rgb(87, 12, 12);
     border-radius:15px;
    color: blue;
-   background-color: lightpink;
+   background-color: rgb(237, 155, 22);
    padding-left: 30px;
 }
 ul{
@@ -27,7 +27,7 @@ img{
     margin-right: auto;
     border-radius: 15px;
     border-style: dashed;
-    border-color: rgb(154, 46, 46);
+    border-color: rgb(142, 71, 71);
 }
 body{
     font-family: sans-serif;
@@ -35,11 +35,12 @@ body{
 }
 h3{
     text-decoration: underline;
-    color: rgb(58, 106, 196);
+    color: rgb(35, 98, 215);
 }
 p{
     padding-top: 20px; 
     padding-bottom: 20px;
+    color: aliceblue;
 }
 h2{
     color: rgb(10, 92, 246);

@@ -1,4 +1,13 @@
 h1 {
 	font-family: fantasy;
+	font-style: italic;
 	color: purple;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ol {
+	font-weight: bold;
 }

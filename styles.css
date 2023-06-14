@@ -1,0 +1,23 @@
+h1 {
+  font-family: fantasy;
+  color: purple;
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ol {
+  font-weight: 700px;
+  font-size: 17px;
+}
+li {
+  text-align: center;
+  border: 1px solid rgb(128, 0, 128);
+  border-radius: 10px;
+  color: rgb(102, 51, 153);
+  background-color: rgb(216, 191, 216);
+  padding-left: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

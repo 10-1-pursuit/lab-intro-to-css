@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+    color: purple;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+li {
+    text-align: center;
+    color: purple;
+    background-color: plum;
+    border-style: solid;
+    border-color: purple;
+    border-width: 1px;
+    border-radius: 25px;
+    padding-left: 30px;
+}
+
+.ordered-list {
+    font-weight: bold;
+    list-style-position: inside;
+}
+
+.no-bullets {
+    list-style-type: none;
+}
+
+#image {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#p1 {
+    text-align: center;
+}

@@ -33,4 +33,4 @@ To complete the tests in this lab, you will need to add the following styles. If
 
 After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.
 
-![An example page.](./assets/example-page.png)
+![An example page.](./assets/pagepreview.png)

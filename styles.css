@@ -1,0 +1,41 @@
+h1{
+    font-family:  fantasy;
+    color:purple;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+ul{
+    border-radius: 10px;
+    color: azure;
+    background-color: yellowgreen;
+    opacity: 80%;
+    list-style-position: inside;
+    margin-bottom: 10px;
+    padding:5px;
+}
+li:hover{
+    height:210px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 120px;
+    border-style: double;
+    border-color: darkcyan;
+    border-width: 6px;
+}
+
+body{
+    font-family: sans-serif;
+    padding: 10%;
+    background-color: teal;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

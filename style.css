@@ -1,0 +1,46 @@
+#fantasy {
+    font-family: fantasy;
+    color: purple;
+    font-size: 30px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: blue;
+
+}
+
+.links {
+    font-weight: bold;
+}
+
+li {
+
+    float: center;
+    border-radius: 1px;
+    border-color: red;
+    font-family: blue;
+    background-color: lightpink;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.images {
+    height: 200px;
+}
+
+#paragraph {
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#ul {
+    padding-left: 30px;
+}
+
+#ol {
+    padding-left: 30px;
+}

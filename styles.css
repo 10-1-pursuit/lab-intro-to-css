@@ -1,3 +1,8 @@
+body {
+	margin: auto;
+	text-align: center;
+}
+
 h1 {
 	font-family: fantasy;
 	font-style: italic;
@@ -5,9 +10,20 @@ h1 {
 }
 
 ul {
+	margin: auto;
 	list-style-type: none;
 }
 
 ol {
 	font-weight: bold;
+}
+
+li {
+	margin: auto;
+	list-style-position: inside;
+	border: 1px solid red;
+	border-radius: 10px;
+	width: 60vw;
+	color: blue;
+	background-color: lightpink;
 }

@@ -2,9 +2,12 @@ h1 {
     color: purple;
     font-family: fantasy; 
 }
+body {
+    background-color: darkviolet;
+    font-family: sans-serif;
+    font-size: 20px;
+}
        p {
-font-family: sans-serif;
-font-size: 20px;
 padding-top: 20px;
 padding-bottom: 20px;
 }
@@ -31,6 +34,16 @@ text-align: center;
 border: 1px curved red;
 padding-left: 30px;
 }
+    li {
+    color: blue;
+    background-color: light pink;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-size: 1.5em;
+    text-align: center;
+    border: 1px curved red;
+    padding-left: 30px;
+    }
   img {
 height: 200px;
 }

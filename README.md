@@ -18,19 +18,30 @@ In this lab, you'll have the opportunity to design a personal webpage. The conte
 
 To complete the tests in this lab, you will need to add the following styles. If you're unclear about any of the instructions below, remember that you can check the test file to see what exactly is being tested.
 
-- Change the font of the name header to be `'Fantasy'` and purple.
-- Remove the bullet points from your unordered list of links.
-- Change the `font-weight` in your ordered list to bold.
-- Center all `li` elements on the page.
-- Give your `li` elements a 1px red border with curved corners.
-- Change the font color of your `li` elements to blue and the background color to a light pink.
-- All images should be 200 pixels tall.
-- Change all font in the body to sans-serif.
-- Underline all `h3` elements.
-- All `p` tags should have 20 pixels of padding on the top and the bottom - not on the sides.
-- `h1` tags should have a 30px font size.
-- Lists should have `30px` of padding on the left.
+x- Change the font of the name header to be `'Fantasy'` and purple.
+x- Remove the bullet points from your unordered list of links.
+x- Change the `font-weight` in your ordered list to bold.
+x- Center all `li` elements on the page.
+x- Give your `li` elements a 1px red border with curved corners.
+x- Change the font color of your `li` elements to blue and the background color to a light pink.
+x- All images should be 200 pixels tall.
+x- Change all font in the body to sans-serif.
+x- Underline all `h3` elements.
+x- All `p` tags should have 20 pixels of padding on the top and the bottom - not on the sides.
+x- `h1` tags should have a 30px font size.
+x- Lists should have `30px` of padding on the left.
 
 After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.
 
 ![An example page.](./assets/example-page.png)
+
+1. Centered image -- profile.jpg.
+2. Changed background color of body tag using hexidecimal.
+3. Pushed the ordered list numbering inside the list items.
+4. Changed max-width of lists and centered titles.
+5. Changed all p tags to white color.
+6. Removed text decoration (underline) from all links.
+7. Added overline to h3 tags.
+8. Changed h3 tags to a bluish color.
+9. Changed h3 font-size to 20px.
+10. In h2 tag, changed the text color, added a grooved ouline, changed font-family.

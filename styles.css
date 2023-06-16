@@ -1,0 +1,81 @@
+/* Stylesheet for index.html */
+
+h1 {
+/* Title of document. */
+    font-family: fantasy;
+    font-size: 30px;
+    color: purple;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Arial Narrow Bold';
+    color: rgb(97, 37, 37); 
+    outline-style: groove;
+    max-width: 125px;
+    
+}
+
+h3 {
+    color: #6a5acd;
+    text-decoration-line: overline underline;
+    font-size: 20px;
+}
+
+li {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 5px;
+    color: blue;
+    background-color: rgb(245, 208, 214);
+    padding-left: 30px;
+}
+
+ol {
+/* Ordered list. */
+    font-weight: bold;
+    list-style-position: inside;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.no-bullets-links {
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    height: 200px;
+    width: auto;
+    margin-left: 640px;
+    margin-right: 640px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #de7f91;
+}
+
+p {
+    padding: 20px 5px;
+}
+
+ul {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.off-white {
+    color: rgb(253, 245, 245);
+}
+
+.text-center {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}

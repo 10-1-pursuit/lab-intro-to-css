@@ -34,3 +34,14 @@ x- Lists should have `30px` of padding on the left.
 After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.
 
 ![An example page.](./assets/example-page.png)
+
+1. Centered image -- profile.jpg.
+2. Changed background color of body tag using hexidecimal.
+3. Pushed the ordered list numbering inside the list items.
+4. Changed max-width of lists and centered titles.
+5. Changed all p tags to white color.
+6. Removed text decoration (underline) from all links.
+7. Added overline to h3 tags.
+8. Changed h3 tags to a bluish color.
+9. Changed h3 font-size to 20px.
+10. In h2 tag, changed the text color, added a grooved ouline, changed font-family.

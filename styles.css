@@ -1,0 +1,47 @@
+/* Stylesheet for index.html */
+
+h1 {
+/* Title of document. */
+    font-family: fantasy;
+    font-size: 30px;
+    color: purple;
+}
+
+h3 {
+
+   text-decoration-line: underline; 
+}
+
+li {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 5px;
+    color: blue;
+    background-color: rgb(245, 208, 214);
+    padding-left: 30px;
+}
+
+ol {
+/* Ordered list. */
+    font-weight: bold;
+}
+
+.no-bullets-links {
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    height: 200px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+p {
+    padding: 20px 5px;
+}

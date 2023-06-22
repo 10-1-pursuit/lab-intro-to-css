@@ -1,0 +1,59 @@
+
+h1 {
+    font-size: 30px;
+    color: purple;
+    font-family: fantasy;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM2THOAQSKrkD26ypfYIr6F5dvcWf4O5DW2Q&usqp=CAU);
+    font-family: sans-serif;
+}
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ul {
+    list-style: none;
+    
+}
+li {
+    background-color: lightpink;
+    color: blue;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+ol,li {
+    font-weight: bold;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+img {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+a {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: blanchedalmond;
+}
+a:active {
+    color: white;
+}
